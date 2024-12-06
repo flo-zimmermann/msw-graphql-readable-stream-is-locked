@@ -1,0 +1,20 @@
+{
+  "name": "msw-graphql-readable-stream-is-locked",
+  "private": true,
+  "engines": {
+    "node": "20.x"
+  },
+  "scripts": {
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "graphql": "^16.9.0",
+    "graphql-request": "^7.1.2"
+  },
+  "devDependencies": {
+    "happy-dom": "^15.11.7",
+    "msw": "^2.6.7",
+    "vite-tsconfig-paths": "^4.3.2",
+    "vitest": "^2.1.8"
+  }
+}
